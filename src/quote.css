@@ -1,0 +1,31 @@
+.quote {
+    height: 5rem;
+    color: aqua;
+}
+.qt{
+       display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 17rem;
+}
+.cont3{
+    height: 12rem;
+    width: 20rem;
+    color: yellow;
+    font-size: larger;
+    font-weight: bold;
+}
+.cont4{
+    display: flex;
+    
+    width: 2.3em;
+    height: 3rem;
+    border-radius: 3rem;
+    background-color: #31C4BE;
+    background-image: url(Group\ 3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+}
+

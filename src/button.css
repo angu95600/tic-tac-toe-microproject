@@ -1,0 +1,12 @@
+.buttons{
+  height: 6rem;
+  width: 6rem;
+  border-radius: 4px;
+  background-color: #1f3540;
+  border: 0px;
+  background-image: url('');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  /* background-size: contain; */
+}
